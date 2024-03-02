@@ -1,1 +1,2 @@
-# discordermbot
+# Discord Bot
+Sarashina Ruka :DDD 
